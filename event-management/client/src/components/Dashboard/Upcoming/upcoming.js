@@ -5,7 +5,6 @@ import { useSelector } from "react-redux";
 import "./upcoming.css";
 import axios from "axios";
 import { AiOutlineSearch } from "react-icons/ai";
-//import Gif1 from "../../../images/cs1.gif";
 // import Axios from "axios";
 
 import { ToastContainer, toast } from "react-toastify";
